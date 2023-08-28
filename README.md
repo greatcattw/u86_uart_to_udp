@@ -3,11 +3,11 @@ Rx in uart message and Tx out UDP message
 
 # Test#1 Local, UDP message Tx and Rx itself.
 ![pic](pic/test1.png)<br><br><br>
-Run with X86 Ubuntu<br>
-bin_u86\udp.svr.out<br>
+Run with X86 Ubuntu  
+bin_u86\udp.svr.out  
 bin_u86\udp.cli.out 127.0.0.1 <br>
 <br>
-tpye something then press [Enter] with udp.cli.out.<br>
+type something then press [Enter] with udp.cli.out.<br>
 udp.svr.out show the message.<br>
 <br>
 
