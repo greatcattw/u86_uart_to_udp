@@ -19,11 +19,11 @@ bin_u86\udp.svr.out  8888
 <br>
 Run minicom with ttyUSB1, 115200, to Tx uart message from ttyUSB1.
 <br>
-Run bin_u18\uart2udp.out to Rx uart message from minicom, and send message out over UDP  
+Run bin_u18\uart2udp.out to Rx uart message from ttyUSB0, and send message out over UDP  
 ![pic](pic/test2a.png)<br><br><br>
 type something quickly with minicom.
 udp.svr.out show the message.  
-wait_usec=1001 is a magic number for showing more debug message.
-
+wait_usec=1001 is a magic number for showing more debug message.  
+<br>
 # Test#3 arduino uart Tx, mt7688 uart Rx and UDP Tx, PC Rx UDP
 ![pic](pic/test3.png)<br><br><br>
