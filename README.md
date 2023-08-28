@@ -5,10 +5,10 @@ Rx in uart message and Tx out UDP message
 ![pic](pic/test1.png)<br><br><br>
 Run with X86 Ubuntu  
 bin_u86\udp.svr.out  
-bin_u86\udp.cli.out 127.0.0.1 <br>
+bin_u86\udp.cli.out 127.0.0.1  
 <br>
-type something then press [Enter] with udp.cli.out.<br>
-udp.svr.out show the message.<br>
+type something then press [Enter] with udp.cli.out  
+udp.svr.out show the message.  
 <br>
 
 # Test#2 minicom uart Tx and UDP Rx
