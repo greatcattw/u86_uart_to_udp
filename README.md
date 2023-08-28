@@ -5,8 +5,8 @@ Rx in uart message and Tx out UDP message
 ![pic](pic/test1a.png)<br>
 ![pic](pic/test1b.png)<br><br><br>
 Run with X86 Ubuntu  
-bin_u86\udp.svr.out  
-bin_u86\udp.cli.out 127.0.0.1  
+bin_u86\udp.svr.out  8888
+bin_u86\udp.cli.out 127.0.0.1 8888
 <br>
 type something then press [Enter] with udp.cli.out  
 udp.svr.out show the message.  
