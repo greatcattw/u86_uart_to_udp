@@ -13,7 +13,7 @@ udp.svr.out show the message.
 <br>
 
 # Test#2 minicom uart Tx and UDP Rx
-![pic](pic/test2.png)<br><br><br>
+![pic](pic/test2c.png)<br><br><br>
 Run UDP server to Rx UDP message  
 bin_u86\udp.svr.out  8888  
 <br>
