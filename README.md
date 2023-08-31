@@ -31,4 +31,6 @@ udp.svr.out show the message.
 <br>
 # Test#4 Log data with long distance
 arduino uart Tx, mt7688 uart Rx and UDP Tx over LTE, PC Rx UDP from LTE.  
-![pic](pic/test4b.png)<br><br><br>
+![pic](pic/test4b.png)<br>
+![pic](pic/duo_ardu2.png)<br>
+![pic](pic/duo_ardu5.png)<br>
