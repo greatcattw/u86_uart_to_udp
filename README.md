@@ -34,5 +34,5 @@ arduino uart Tx, mt7688 uart Rx and UDP Tx over LTE, PC Rx UDP from LTE.
 ![pic](pic/test4b.png)<br>
 ![pic](pic/duo_ardu2.png)<br>
 ![pic](pic/duo_ardu5.png)<br>
-![pic](pic/duo_duo1.png)<br>
-![pic](pic/duo_duo2.png)<br>
+![pic](pic/duo1.png)<br>
+![pic](pic/duo2.png)<br>
