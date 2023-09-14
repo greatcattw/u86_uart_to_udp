@@ -27,7 +27,7 @@ udp.svr.out show the message.
 ![pic](pic/test2b.png)<br><br><br>
 <br>
 ## Test#3 arduino uart Tx, mt7688 uart Rx and UDP Tx, PC Rx UDP
-Tested, this program is able to receive short string ( > 20 char) from arduino uart (115200) every 200ms.  
+Tested, this program is able to receive short string ( < 20 char) from arduino uart (115200bps) every 200ms.  
 ![pic](pic/test3b.png)<br><br><br>
 <br>
 ## Test#4 Log data with long distance
